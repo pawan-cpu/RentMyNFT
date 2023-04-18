@@ -13,11 +13,11 @@
 
 ## What it does
 - Our homeless crowdfunding dapp, powered by ChainFund's community model, helps reduce homelessness by supporting people in finding jobs and homes that lift them out of homelessness for good.
-- 
+
 - We accomplish this by providing each person with a dedicated caseworker who connects them with a supportive online community that provides funding and mentorship. Our dapp is designed to encourage community support and incentivize funding through our economic incentive model.
-- 
+
 - We also match our community members with forward-thinking employers and landlords who share our commitment to reducing homelessness. 
-- 
+
 - Our dapp's primary goal is to provide a safe and secure platform where people can connect and come together to make a positive impact on homelessness.
 
 
@@ -58,9 +58,16 @@
 - deploying site to polygon chain
 - Create and run Campaigns
 
-## What's next for Hugo + Web Monetization
-Improve hiding of exclusive content
-create pull request to Spheron internal themes to make webmonetization possible for every theme
+## What's next for ChainFund
+- Building Our own Company
+- Set up a legal entity in suitable jurisdiction
+- Continue talks with potential compliance officer
+- Ramp up marketing efforts to launch a first campaign
+
+# Platform
+- More options for homeless people to present themselves
+- Giving campaigns more options to customize their descriptions with bb-codes. 
+- This means that each campaign can present itself in a way that best represents its goals and vision.
 
 ## Github
 Github: https://github.com/akashpanda122/ChainFund
@@ -77,5 +84,9 @@ Demo page: https://chain-fund.vercel.app/
 
 ## Try it out
 - https://chain-fund.vercel.app/
+
+## ChainFund Demo Video
+- https://youtu.be/_6aZgCmlOLA
+
 ## Developers Intro
-- https://www.canva.com/design/DAE7I7PoBl8/xQmVUZQx2tcOcmQqq4x4Qg/edit?utm_content=DAE7I7PoBl8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- https://youtu.be/Den0NU5yue4
