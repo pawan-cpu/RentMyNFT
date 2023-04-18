@@ -51,6 +51,7 @@ create pull request to Spheron internal themes to make webmonetization possible 
 
 ## Github
 Github: https://github.com/akashpanda122/ChainFund
+
 Demo page: https://github.com/sabinebertram/hugo-webmonetization-demo
 
 ## Built With
@@ -58,7 +59,8 @@ Demo page: https://github.com/sabinebertram/hugo-webmonetization-demo
 - HardHat
 - ThirdWeb
 - Spheron Network 
+- React
 
 
-Try it out
- hugowebmonetization.netlify.com
+## Try it out
+hugowebmonetization.netlify.com
